@@ -103,6 +103,13 @@ button:hover {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.image-row h2 {
+    color: #4b0082;
+    justify-content: center;
 }
 
 .projects {
@@ -117,10 +124,16 @@ button:hover {
 }
 
 .projects h2 {
+    margin-top: 48px;
     font-style: underline;
 }
 
 .projects p {
     margin-top: 16px;
-    margin-bottom: 48px;
+}
+
+.projects img {
+    margin-top: 16px;
+    height: 300px;
+    padding: 10px;
 }

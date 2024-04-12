@@ -1,5 +1,5 @@
 ## Link
-URL: [https://jlafrance3.github.io/index.html]\
+URL: https://jlafrance3.github.io/index.html
 
 </br>
 
