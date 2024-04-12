@@ -54,7 +54,7 @@ nav a {
 
 .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     padding: 24px;
 }
 
@@ -101,7 +101,7 @@ button:hover {
 
 .image-row {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-content: center;
     align-items: center;
     text-align: center;
